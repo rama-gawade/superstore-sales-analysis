@@ -18,8 +18,7 @@
 
 3. Data Modeling
 --> Define Relationships:
-
-Create Calculated Measures:
+-->Create Calculated Measures:
 --> Use DAX (Data Analysis Expressions) to create important calculated measures:
 
 4. Creating Visualizations
